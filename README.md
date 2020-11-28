@@ -22,11 +22,11 @@
 
 #### 清单中「架构」说明：
 
-- **通用（Universal ）**：此应用使用通用（Apple Silicon + Intel）方式编译，包含两套文件，既可以在 Intel Mac 安装，也可以在 Apple Silicon Mac 安装使用
+- **通用（Universal ）**：这个应用在编译时选择的是 Apple Silicon 和 Intel 两个架构，那么这个应用既可以在 Apple 芯片的 Mac 上安装运行，也可以在 Intel Mac 上安装运行
 
-- **Apple（Apple SIlicon Only）**：此应用使用  Apple Silicon 编译，仅可以在 Apple 芯片的 Mac 安装使用
+- **Apple（Apple SIlicon Only）**：这个应用在编译时只选择了 arm64，仅能在 Apple 芯片的 Mac 安装运行，在 Intel Mac 是不能安装的
 
-- **Intel**：基于 Intel 架构编译的应用，但能在 Apple 芯片的 Mac 上通过 Rosetta 2 安装使用
+- **Intel**：这个应用是在 Intel Mac 编译，可以在 Apple 芯片的 Mac 通过 Rosetta 2 运行
 
 ------
 
@@ -84,9 +84,9 @@
 |  ✅   | Intel | Excel                    | 16.43.1                          | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products   https://apps.apple.com/cn/app/microsoft-excel/id462058435?mt=12 |                                                              |
 |  ✅   | Intel | Word                     | 16.43.1                          | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products   https://apps.apple.com/cn/app/microsoft-word/id462054704?mt=12 |                                                              |
 |  ✅   | Intel | PowerPoint               | 16.43                            | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products   https://apps.apple.com/cn/app/microsoft-powerpoint/id462062816?mt=12 |                                                              |
-|  👍   | 通用  | Word                     | 16.44(预览版)                    | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products |                                                              |
-|  👍   | 通用  | Outlook                  | 16.44(预览版)                    | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products |                                                              |
-|  👍   | 通用  | OneNote                  | 16.44(预览版)                    | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products |                                                              |
+|  👍   | 通用  | Word                     | 16.44(预览版)                    | https://insider.office.com/zh-cn/join/mac |                                                              |
+|  👍   | 通用  | Outlook                  | 16.44(预览版)                    | https://insider.office.com/zh-cn/join/mac |                                                              |
+|  👍   | 通用  | OneNote                  | 16.44(预览版)                    | https://insider.office.com/zh-cn/join/mac |                                                              |
 |  ✅   | Intel | OneNote                  | 16.43                            | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products   https://apps.apple.com/cn/app/microsoft-onenote/id784801555?mt=12 |                                                              |
 |  ✅   | Intel | OneDrive                 | 20.201.1005                      | https://www.microsoft.com/zh-cn/microsoft-365/buy/compare-all-microsoft-365-products   https://apps.apple.com/cn/app/onedrive/id823766827?mt=12 |                                                              |
 |  👍   | 通用  | Keynote                  | 10.3.5                           | [https://apps.apple.com/cn/app/keynote-%E8%AE%B2%E6%BC%94/id409183694?mt=12](https://apps.apple.com/cn/app/keynote-讲演/id409183694?mt=12) |                                                              |
@@ -134,3 +134,4 @@
 
 
 
+其他参考：https://github.com/ThatGuySam/doesitarm
