@@ -1,22 +1,22 @@
 ## 背景
 
-苹果在 2020.11 月正式发布了 Apple Silicon 的 MacBook Pro、MacBook Air、Mac mini。也是因为这颗芯片，原本运行在 Intel 芯上的应用大部分可以运行，但也有些不可以。
+苹果在 2020.11 月正式发布了 Apple Silicon 的 MacBook Pro、MacBook Air、Mac mini。也是因为这颗芯片，原本运行在 Intel 芯片 Mac 上的应用大部分可以运行，但也有些不可以。
 
 我结合自己在使用的软件，同时搜集其他常用软件当前的适配状态，形成下面的清单，给即将购入或者关注这款 Mac 的用户提供一个可看参考的清单。
 
 此列表不断完善，如果您也想贡献一份力量，可以提 issues 或者私信给我。
 
-如果你也是 Apple Silicon Mac 用户或者关注 Apple Silicon Mac 相关信息，可以加 QQ 群交流：1094601027 （AppleSilicon交流分享）
+如果你也是 Apple 芯片的 Mac 用户或者关注 Apple Silicon Mac 相关信息，可以加 QQ 群交流：1094601027 （AppleSilicon交流分享）
 
 
 
 #### 清单中「状态」说明：
 
-- 👍：适配 Apple Silicon
+- 👍：完美适配 Apple 芯片的 Mac
 
-- ✅：可以通过 Rosetta 2 方式在 Apple Silicon Mac 运行使用
+- ✅：可以通过 Rosetta 2 方式在 Apple 芯片的 Mac 运行使用
 
-- ❌：不能在 Apple Silicon Mac 上正常使用
+- ❌：不能在 Apple 芯片的 Mac 上正常使用
 
 
 
@@ -24,9 +24,9 @@
 
 - **通用（Universal ）**：此应用使用通用（Apple Silicon + Intel）方式编译，包含两套文件，既可以在 Intel Mac 安装，也可以在 Apple Silicon Mac 安装使用
 
-- **Apple（Apple SIlicon Only）**：此应用使用  Apple Silicon 编译，仅可以在 Apple Silicon Mac 安装使用
+- **Apple（Apple SIlicon Only）**：此应用使用  Apple Silicon 编译，仅可以在 Apple 芯片的 Mac 安装使用
 
-- **Intel**：基于 Intel 架构编译的应用，但能在 Apple Silicon Mac 上通过 Rosetta 2 安装使用
+- **Intel**：基于 Intel 架构编译的应用，但能在 Apple 芯片的 Mac 上通过 Rosetta 2 安装使用
 
 ------
 
