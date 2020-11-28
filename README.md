@@ -6,11 +6,15 @@
 
 此列表不断完善，如果您也想贡献一份力量，可以提 issues 或者私信给我。
 
-如果你也是 Apple Silicon Mac 用户或者关注 Apple Silicon Mac 相关信息，可以加 QQ 群交流：1094601027 （AppleSilicon交流分享）
+如果你也是 Apple Silicon Mac 用户或者关注 Apple Silicon Mac 相关信息，可以加 QQ 群交流：
+
+1094601027 （AppleSilicon交流分享）
+
+
 
 #### 清单中「状态」说明：
 
-- 👍：适配 M1
+- 👍：适配 Apple Silicon
 
 - ✅：可以通过 Rosetta 2 方式在 Apple Silicon Mac 上正常使用
 
