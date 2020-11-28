@@ -6,15 +6,15 @@
 
 此列表不断完善，如果您也想贡献一份力量，可以提 issues 或者私信给我。
 
-如果你也是 M1 Mac 用户或者关注 Apple Silicon Mac 相关信息，可以加 QQ 群交流：1094601027 （AppleSilicon交流分享）
+如果你也是 Apple Silicon Mac 用户或者关注 Apple Silicon Mac 相关信息，可以加 QQ 群交流：1094601027 （AppleSilicon交流分享）
 
 #### 清单中「状态」说明：
 
 - 👍：适配 M1
 
-- ✅：可以通过 Rosetta 2 方式在 M1 Mac 上正常使用
+- ✅：可以通过 Rosetta 2 方式在 Apple Silicon Mac 上正常使用
 
-- ❌：不能在 M1 Mac 上正常使用
+- ❌：不能在 Apple Silicon Mac 上正常使用
 
 
 
@@ -46,7 +46,7 @@
 |  ✅   | Intel | Adobe Lightroom          | 4.0                              | https://www.adobe.com/hk_zh/creativecloud/catalog/desktop.html?promoid=RL89NGY7&mv=other |                                                              |
 |  ✅   | Intel | After Effects            | 17.5.1                           | https://www.adobe.com/hk_zh/creativecloud/catalog/desktop.html?promoid=RL89NGY7&mv=other |                                                              |
 |  ✅   | Intel | Adobe XD                 | 35.1.12                          | https://www.adobe.com/hk_zh/creativecloud/catalog/desktop.html?promoid=RL89NGY7&mv=other |                                                              |
-|  👍   | 通用  | Sketch                   | 70 (108797)                      | https://www.sketch.com/downloads/mac/                        |                                                              |
+|  👍   | 通用  | Sketch                   | 70.1 (108880)                    | https://www.sketch.com/downloads/mac/                        |                                                              |
 |  ❌   | Intel | AutoCAD                  |                                  | https://www.autodesk.com/products/autocad/overview?plc=ACDIST&term=1-YEAR&support=ADVANCED&quantity=1 | https://forums.autodesk.com/t5/autocad-for-mac-forum/apple-silicon/m-p/9652836 |
 |  ❌   | Intel | Docker                   |                                  | https://www.docker.com                                       |                                                              |
 |  ❌   | Intel | TensorFlow               |                                  | https://blog.tensorflow.org/2020/11/accelerating-tensorflow-performance-on-mac.html | Not yet, but a supported pre-release is available https://github.com/tensorflow/tensorflow/issues/44751   https://blog.tensorflow.org/2020/11/accelerating-tensorflow-performance-on-mac.html |
@@ -62,7 +62,7 @@
 |  ✅   | Intel | Visual Studio Code       | 1.51.1                           | https://code.visualstudio.com                                |                                                              |
 |  ✅   | Intel | Android Studio           | 4.1.1                            | https://developer.android.google.cn/studio/                  |                                                              |
 |  ✅   | Intel | Node                     | 15.3.0                           | https://github.com/nodejs/node                               | https://github.com/nodejs/build/issues/2474 https://github.com/nodejs/node/issues/36160 |
-|  ✅   | Intel | Flutter                  | 1.24.0-10.2.pre                  |                                                              | https://github.com/flutter/flutter/issues/60118              |
+|  ✅   | Intel | Flutter                  | 1.24.0-10.2.pre                  | https://flutter.dev/docs/get-started/install/macos           | https://github.com/flutter/flutter/issues/60118              |
 |  ✅   | Intel | home-brew                | 2.5.11                           | https://brew.sh https://github.com/Homebrew/brew             | https://soffes.blog/homebrew-on-apple-silicon                |
 |  👍   | 通用  | Redis                    | 6.0.9                            | https://redis.io/download                                    | https://github.com/ThatGuySam/doesitarm/issues/298           |
 |  ✅   | Intel | HandShaker               | 2.1.1 (255)                      | https://www.smartisan.com/apps/#/handshaker                  |                                                              |
