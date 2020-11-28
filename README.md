@@ -133,5 +133,6 @@
 |    ✅     |  Intel   | Telegram | 7.2.3 (208487) AppStore | https://telegr.am         |  |
 
 
+------
 
 其他参考：https://github.com/ThatGuySam/doesitarm
