@@ -104,6 +104,7 @@
 |  ✅   | Intel | 百度网盘                 | 3.5.0 (12)                       |                                                              |                                                              |
 |  👍   | 通用  | BetterTouchTool          | 3.506                            | https://folivora.ai/downloads                                |                                                              |
 |  👍   | 通用  | Ulysses                  | 21.1                             | https://apps.apple.com/cn/app/ulysses/id1225570693?mt=12     |                                                              |
+| ✅ | Intel | Typora | 0.9.9.35.2 | https://typora.io | |
 
 音乐/视频
 
