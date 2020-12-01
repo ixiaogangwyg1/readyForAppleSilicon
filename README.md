@@ -108,6 +108,7 @@
 | 👍 | 通用 | TeamViewer | 15.12.4 | https://www.teamviewer.cn/cn/teamviewer-automatic-download/?utm_source=baidu&utm_medium=cpc&utm_campaign=CN%7CB%7CPR%7C20%7Cnov%7Cbrand-words%7Cnew%7Ct0%7C0 | |
 | 👍 | 通用 | PDF Viewer | 5.1.0 | https://apps.apple.com/cn/app/pdf-viewer-pro-by-pspdfkit/id1120099014 | |
 | 👍 | 通用 | iStat Menus | 6.51 | https://bjango.com/mac/istatmenus/ | |
+| 👍 | 通用 | Blackmagic Disk Speed Test | 3.3 | https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12 | |
 
 
 
