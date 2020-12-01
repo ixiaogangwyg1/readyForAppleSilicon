@@ -109,7 +109,7 @@
 | 👍 | 通用 | PDF Viewer | 5.1.0 | https://apps.apple.com/cn/app/pdf-viewer-pro-by-pspdfkit/id1120099014 | |
 | 👍 | 通用 | iStat Menus | 6.51 | https://bjango.com/mac/istatmenus/ | |
 | 👍 | 通用 | Blackmagic Disk Speed Test | 3.3 | https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12 | |
-| ✅ | Intel | Capture One |  | https://www.captureone.com/en/products-plans/single-user | https://support.captureone.com/hc/en-us/community/posts/360013922417-Support-for-New-Apple-M1-Chip- |
+| ✅ | Intel | Capture One | 13.1.3.9 | https://www.captureone.com/en/products-plans/single-user | https://support.captureone.com/hc/en-us/community/posts/360013922417-Support-for-New-Apple-M1-Chip- |
 
 
 
