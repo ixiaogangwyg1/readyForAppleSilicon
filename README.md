@@ -105,6 +105,9 @@
 |  👍   | 通用  | BetterTouchTool          | 3.506                            | https://folivora.ai/downloads                                |                                                              |
 |  👍   | 通用  | Ulysses                  | 21.1                             | https://apps.apple.com/cn/app/ulysses/id1225570693?mt=12     |                                                              |
 | ✅ | Intel | Typora | 0.9.9.35.2 | https://typora.io | |
+| 👍 | 通用 | TeamViewer | 15.12.4 | https://www.teamviewer.cn/cn/teamviewer-automatic-download/?utm_source=baidu&utm_medium=cpc&utm_campaign=CN%7CB%7CPR%7C20%7Cnov%7Cbrand-words%7Cnew%7Ct0%7C0 | |
+| 👍 | 通用 | PDF Viewer | 5.1.0 | https://apps.apple.com/cn/app/pdf-viewer-pro-by-pspdfkit/id1120099014 | |
+| 👍 | 通用 | iStat Menus | 6.51 | https://bjango.com/mac/istatmenus/ | |
 
 音乐/视频
 
