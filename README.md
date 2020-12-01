@@ -109,6 +109,7 @@
 | 👍 | 通用 | PDF Viewer | 5.1.0 | https://apps.apple.com/cn/app/pdf-viewer-pro-by-pspdfkit/id1120099014 | |
 | 👍 | 通用 | iStat Menus | 6.51 | https://bjango.com/mac/istatmenus/ | |
 | 👍 | 通用 | Blackmagic Disk Speed Test | 3.3 | https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12 | |
+| ✅ | Intel | Capture One |  | https://www.captureone.com/en/products-plans/single-user | https://support.captureone.com/hc/en-us/community/posts/360013922417-Support-for-New-Apple-M1-Chip- |
 
 
 
@@ -139,7 +140,7 @@
 | :----: | :-------: | :----------------------------------------------------------- | :------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |    👍     |   通用   | QQ       | 6.7.0                   | https://im.qq.com/macqq/  |  |
 |    ✅     |  Intel   | 微信     | 2.5.0 (15735)           | https://mac.weixin.qq.com |  |
-|    ✅     |  Intel   | Telegram | 7.2.3 (208487) AppStore | https://telegr.am         |  |
+|    👍   |  通用 | Telegram | 7.2.4 | https://telegr.am<br />https://apps.apple.com/cn/app/telegram/id747648890?mt=12 |  |
 
 
 
