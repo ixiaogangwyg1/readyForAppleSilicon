@@ -110,6 +110,11 @@
 | 👍 | 通用 | iStat Menus | 6.51 | https://bjango.com/mac/istatmenus/ | |
 | 👍 | 通用 | Blackmagic Disk Speed Test | 3.3 | https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12 | |
 | ✅ | Intel | Capture One | 13.1.3.9 | https://www.captureone.com/en/products-plans/single-user | https://support.captureone.com/hc/en-us/community/posts/360013922417-Support-for-New-Apple-M1-Chip- |
+| 👍 | 通用 | WPS Office | 3.0.1 | https://apps.apple.com/cn/app/wps-office/id1443749478?mt=12 |  |
+| 👍 | 通用 | Geekbench | 5.3 | https://www.geekbench.com/download/mac |  |
+| ✅ | Intel | Wireshark | 3.4.0 | https://www.wireshark.org/ |  |
+| ✅ | Intel | Filezilla | 3.51.0 | https://filezilla-project.org/ |  |
+| 👍 | 通用 | Nova | 3.1 | https://nova.app/ |  |
 
 
 
