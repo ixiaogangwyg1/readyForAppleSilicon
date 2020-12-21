@@ -80,7 +80,7 @@
 |  ✅   | Intel | PxCook                   | 3.9.940 beta                     | https://www.fancynode.com.cn/pxcook                          |                                                              |
 |  ✅   | Intel | Reveal                   | 27                               | https://revealapp.com/download-thanks/                       |                                                              |
 |  ❌   | Intel | VMware Fusion            | 专业版 12.0.0 (16880131)         | https://www.vmware.com/products/fusion/fusion-evaluation.html |                                                              |
-|  ❌   | Intel | Parallels Desktop        | 16.1.1                           | https://www.parallels.cn/pd/fusion-compete/                  | https://b2b.parallels.com/Apple-Silicon?_ga=2.90285848.300308216.1605800730-777219924.1605800730# |
+|  👍 | 通用 | Parallels Desktop        | 16.3.0 （50385） | https://my.parallels.com/desktop/beta | https://my.parallels.com/desktop/beta |
 |  👍   | 通用 | Excel                    | 16.44                         | https://apps.apple.com/cn/app/microsoft-excel/id462058435?mt=12 |                                                              |
 |  👍   | 通用 | PowerPoint               | 16.44                           | https://apps.apple.com/cn/app/microsoft-powerpoint/id462062816?mt=12 |                                                              |
 |  👍   | 通用  | Word                     | 16.44                    | https://apps.apple.com/cn/app/microsoft-word/id462054704?mt=12 |                                                              |
