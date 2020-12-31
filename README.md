@@ -94,14 +94,14 @@
 |  ✅   | Intel | 迅雷                     | 03.4.1                           | https://dl.xunlei.com/#mod02                                 |                                                              |
 |  👍   | 通用  | Keka                     | 1.2.3 (4223)                     | https://www.keka.io/zh-cn/                                   |                                                              |
 |  👍   | 通用  | Safari                   | 14.0.1 (16610.3.6.3)             |                                                              |                                                              |
-|  ✅   | Intel | Firefox                  | 83.0                             | http://www.firefox.com.cn                                    |                                                              |
+|  👍 | 通用 | Firefox                  | 84.0.1                        | http://www.firefox.com.cn                                    |                                                              |
 |  👍   | 通用  | Chrome                   | 87.0.4280.67（正式版本） (arm64) | https://www.google.cn/chrome/                                |                                                              |
 |  ✅   | Intel | trojan-qt5               | 1.4.0                            |                                                              |                                                              |
 |  ✅   | Intel | 印象笔记                 | 9.4.7 (461685 App Store)         | https://yinxiang.com/download/                               |                                                              |
 |  ✅   | Intel | 百度网盘                 | 3.5.0 (12)                       | https://pan.baidu.com/download#pan |                                                              |
 |  👍   | 通用  | BetterTouchTool          | 3.506                            | https://folivora.ai/downloads                                |                                                              |
 |  👍   | 通用  | Ulysses                  | 21.1                             | https://apps.apple.com/cn/app/ulysses/id1225570693?mt=12     |                                                              |
-| ✅ | Intel | Typora | 0.9.9.35.2 | https://typora.io | |
+| 👍 | 通用 | Typora | 0.9.9.36.2 | https://typora.io | |
 | 👍 | 通用 | TeamViewer | 15.12.4 | https://www.teamviewer.cn/cn/teamviewer-automatic-download/?utm_source=baidu&utm_medium=cpc&utm_campaign=CN%7CB%7CPR%7C20%7Cnov%7Cbrand-words%7Cnew%7Ct0%7C0 | |
 | 👍 | 通用 | PDF Viewer | 5.1.0 | https://apps.apple.com/cn/app/pdf-viewer-pro-by-pspdfkit/id1120099014 | |
 | 👍 | 通用 | iStat Menus | 6.51 | https://bjango.com/mac/istatmenus/ | |
@@ -112,6 +112,9 @@
 | ✅ | Intel | Wireshark | 3.4.0 | https://www.wireshark.org/ |  |
 | ✅ | Intel | Filezilla | 3.51.0 | https://filezilla-project.org/ |  |
 | 👍 | 通用 | Nova | 3.1 | https://nova.app/ |  |
+| 👍 | Apple | Premiere Pro beta | 14.9 |  | |
+| 👍 | Apple | Premiere Rush beta | 15.5.0 |  | |
+| 👍 | Apple | Audition beta | 13.0.14 |  | |
 
 
 
@@ -126,13 +129,13 @@
 |    👍     |   通用   | Logic Pro        | 10.6       | https://apps.apple.com/cn/app/logic-pro/id634148309?mt=12    |          |
 |    👍     |   通用   | MainStage        | 3.5        | https://apps.apple.com/cn/app/mainstage/id634159523?mt=12    |          |
 |    ✅     |  Intel   | 腾讯视频         | 2.18.2     | [https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0-%E7%8B%AC%E6%92%AD/id1231336508?mt=12](https://apps.apple.com/cn/app/腾讯视频-我喜欢你-独播/id1231336508?mt=12) |          |
-|    ✅     |  Intel   | 爱奇艺           | 11.11.0    | [https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E5%A6%82%E6%84%8F%E8%8A%B3%E9%9C%8F%E7%83%AD%E6%92%AD/id1012296988?mt=12](https://apps.apple.com/cn/app/爱奇艺-如意芳霏热播/id1012296988?mt=12) |          |
-|    ✅     |  Intel   | 网易云音乐       | 02.3.2     | [https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12](https://apps.apple.com/cn/app/网易云音乐/id944848654?mt=12) |          |
-|    ✅     |  Intel   | QQ音乐           | 7.3.0      | [https://apps.apple.com/cn/app/qq%E9%9F%B3%E4%B9%90-%E8%AE%A9%E7%94%9F%E6%B4%BB%E5%85%85%E6%BB%A1%E9%9F%B3%E4%B9%90/id595615424?mt=12](https://apps.apple.com/cn/app/qq音乐-让生活充满音乐/id595615424?mt=12) |          |
+|    👍   |  通用 | 爱奇艺           | 11.12.0 (20201214162000) | [https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E5%A6%82%E6%84%8F%E8%8A%B3%E9%9C%8F%E7%83%AD%E6%92%AD/id1012296988?mt=12](https://apps.apple.com/cn/app/爱奇艺-如意芳霏热播/id1012296988?mt=12) |          |
+|    ✅     |  Intel   | 网易云音乐       | 02.3.3    | [https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12](https://apps.apple.com/cn/app/网易云音乐/id944848654?mt=12) |          |
+|    ✅     |  Intel   | QQ音乐           | 7.4.0     | [https://apps.apple.com/cn/app/qq%E9%9F%B3%E4%B9%90-%E8%AE%A9%E7%94%9F%E6%B4%BB%E5%85%85%E6%BB%A1%E9%9F%B3%E4%B9%90/id595615424?mt=12](https://apps.apple.com/cn/app/qq音乐-让生活充满音乐/id595615424?mt=12) |          |
 |    ✅     |  Intel   | 喜马拉雅         | 01.2.22    | [https://apps.apple.com/cn/app/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85-%E5%90%AC%E4%B9%A6%E7%A4%BE%E5%8C%BA-%E7%94%B5%E5%8F%B0%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E7%9B%B8%E5%A3%B0%E8%AF%84%E4%B9%A6/id876336838](https://apps.apple.com/cn/app/喜马拉雅-听书社区-电台有声小说相声评书/id876336838) |          |
 |    ✅     |  Intel   | VLC              | 3.0.11.1   | https://www.videolan.org/vlc/                                |          |
 |    ✅     |  Intel   | IINA             | 01.1.2     | https://www.iina.io                                          |          |
-|    ✅     |  Intel   | Movist Pro       | 02.2.3     | https://movistprime.com                                      |          |
+|    👍   |  通用 | Movist Pro       | 2.6.3 | https://movistprime.com                                      |          |
 
 ------
 
