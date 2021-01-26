@@ -130,10 +130,10 @@
 |    👍     |   通用   | MainStage        | 3.5        | https://apps.apple.com/cn/app/mainstage/id634159523?mt=12    |          |
 |    ✅     |  Intel   | 腾讯视频         | 2.18.2     | [https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91-%E6%88%91%E5%96%9C%E6%AC%A2%E4%BD%A0-%E7%8B%AC%E6%92%AD/id1231336508?mt=12](https://apps.apple.com/cn/app/腾讯视频-我喜欢你-独播/id1231336508?mt=12) |          |
 |    👍   |  通用 | 爱奇艺           | 11.12.0 (20201214162000) | [https://apps.apple.com/cn/app/%E7%88%B1%E5%A5%87%E8%89%BA-%E5%A6%82%E6%84%8F%E8%8A%B3%E9%9C%8F%E7%83%AD%E6%92%AD/id1012296988?mt=12](https://apps.apple.com/cn/app/爱奇艺-如意芳霏热播/id1012296988?mt=12) |          |
-|    ✅     |  Intel   | 网易云音乐       | 02.3.3    | [https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/id944848654?mt=12](https://apps.apple.com/cn/app/网易云音乐/id944848654?mt=12) |          |
+|    👍   |  通用 | 网易云音乐       | 2.3.4 | https://music.163.com/st/download?market=baidupz201901 |          |
 |    ✅     |  Intel   | QQ音乐           | 7.4.0     | [https://apps.apple.com/cn/app/qq%E9%9F%B3%E4%B9%90-%E8%AE%A9%E7%94%9F%E6%B4%BB%E5%85%85%E6%BB%A1%E9%9F%B3%E4%B9%90/id595615424?mt=12](https://apps.apple.com/cn/app/qq音乐-让生活充满音乐/id595615424?mt=12) |          |
 |    ✅     |  Intel   | 喜马拉雅         | 01.2.22    | [https://apps.apple.com/cn/app/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85-%E5%90%AC%E4%B9%A6%E7%A4%BE%E5%8C%BA-%E7%94%B5%E5%8F%B0%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E7%9B%B8%E5%A3%B0%E8%AF%84%E4%B9%A6/id876336838](https://apps.apple.com/cn/app/喜马拉雅-听书社区-电台有声小说相声评书/id876336838) |          |
-|    ✅     |  Intel   | VLC              | 3.0.11.1   | https://www.videolan.org/vlc/                                |          |
+|    👍   |  Apple  | VLC              | 3.0.12.1  | https://www.videolan.org/vlc/                                |          |
 |    ✅     |  Intel   | IINA             | 01.1.2     | https://www.iina.io                                          |          |
 |    👍   |  通用 | Movist Pro       | 2.6.3 | https://movistprime.com                                      |          |
 
