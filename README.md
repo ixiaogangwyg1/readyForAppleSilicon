@@ -115,6 +115,7 @@
 | 👍 | Apple | Premiere Pro beta | 14.9 |  | |
 | 👍 | Apple | Premiere Rush beta | 15.5.0 |  | |
 | 👍 | Apple | Audition beta | 13.0.14 |  | |
+| 👍 | 通用 | 剪映专业版 | 1.2.0 | https://apps.apple.com/cn/app/%E5%89%AA%E6%98%A0%E4%B8%93%E4%B8%9A%E7%89%88/id1529999940?mt=12 | |
 
 
 
