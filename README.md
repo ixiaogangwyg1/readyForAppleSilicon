@@ -116,6 +116,12 @@
 | 👍 | Apple | Premiere Rush beta | 15.5.0 |  | |
 | 👍 | Apple | Audition beta | 13.0.14 |  | |
 | 👍 | 通用 | 剪映专业版 | 1.2.0 | https://apps.apple.com/cn/app/%E5%89%AA%E6%98%A0%E4%B8%93%E4%B8%9A%E7%89%88/id1529999940?mt=12 | |
+| 👍 | 通用 | iMazing | 2.13.4 (14707) | https://imazing.com/download | |
+| 👍 | 通用 | Microsoft Edge | 88.0.705.63 | https://microsoft-edge.en.softonic.com/mac | |
+| ✅ | Intel | Skype | 8.66.0.74 | https://skype.gmw.cn/down/skype-for-computers.html | |
+| 👍 | 通用 | Things | 3.13.8 | https://apps.apple.com/cn/app/things-3/id904280696?mt=12 | |
+| 👍 | 通用 | Paragon NTFS | 15.8.105 | https://www.paragon-software.com/home/ntfs-mac/ | |
+| 👍 | 通用 | DisplayLink Manager | 1.3 | https://www.displaylink.com/downloads/macos | |
 
 
 
