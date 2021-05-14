@@ -61,7 +61,7 @@
 |  ✅   | Intel | Charles                  | 04.6.1                           | https://www.charlesproxy.com                                 |                                                              |
 |  👍   | 通用  | Transmit                 | 04.4.11                          | https://library.panic.com/releasenotes/transmit5/            |                                                              |
 |  ✅   | Intel | Navicat Premium          | 15.0.22                          | https://www.navicat.com/en/download/navicat-premium#mac      |                                                              |
-|  ✅   | Intel | Visual Studio Code       | 1.51.1                           | https://code.visualstudio.com                                |                                                              |
+|  👍 | Apple | Visual Studio Code       | 1.54                          | https://code.visualstudio.com/updates/v1_54 |                                                              |
 |  ✅   | Intel | Android Studio           | 4.1.1                            | https://developer.android.google.cn/studio/                  |                                                              |
 |  ✅   | Intel | Node                     | 15.3.0                           | https://github.com/nodejs/node                               | https://github.com/nodejs/build/issues/2474 https://github.com/nodejs/node/issues/36160 |
 |  ✅   | Intel | Flutter                  | 1.24.0-10.2.pre                  | https://flutter.dev/docs/get-started/install/macos           | https://github.com/flutter/flutter/issues/60118              |
@@ -122,6 +122,7 @@
 | 👍 | 通用 | Things | 3.13.8 | https://apps.apple.com/cn/app/things-3/id904280696?mt=12 | |
 | 👍 | 通用 | Paragon NTFS | 15.8.105 | https://www.paragon-software.com/home/ntfs-mac/ | |
 | 👍 | 通用 | DisplayLink Manager | 1.3 | https://www.displaylink.com/downloads/macos | |
+|  |  |  |  | https://code.visualstudio.com/insiders/ | |
 
 
 
